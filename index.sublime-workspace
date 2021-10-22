@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"my",
+				"mybutton"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"mt",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"background",
+				"background\tproperty"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"sp",
+				"span\tTag"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"bu",
+				"button\tTag"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"out",
+				"outline\tproperty"
+			],
+			[
+				"bode",
+				"border\tproperty"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"sty",
+				"list-style\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"tra",
+				"transition-property\tproperty"
+			],
+			[
+				"rote",
+				"rotateY()\ttransform"
+			],
+			[
+				"pr",
+				"preserve-3d\ttransform-style"
+			],
+			[
+				"bacgr",
+				"background\tproperty"
+			],
+			[
+				"obje",
+				"object-fit\tproperty"
+			],
+			[
+				"pre",
+				"preserve-3d\ttransform-style"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"trans",
+				"transform-style\tproperty"
+			],
+			[
+				"backgra",
+				"background-repeat\tproperty"
+			],
+			[
+				"h",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"coun",
+				"counterup"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"ra",
+				"rgba"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"ci",
+				"circle()\tclip-path"
+			],
+			[
+				"clip",
+				"clip-path\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"sk",
+				"skewY()\ttransform"
+			],
+			[
+				"ba",
+				"background-position\tproperty"
+			],
+			[
+				"ab",
+				"absolute\tposition"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"cl",
+				"col-md-4"
+			],
+			[
+				"pro",
+				"progressbar"
+			],
+			[
+				"mb",
+				"mb-5"
+			],
+			[
+				"py",
+				"py-5"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"img",
+				"img-fluid1"
+			],
+			[
+				"name",
+				"NAME"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/M/jQuary/practice project/box.html",
+		"/M/jQuary/practice project/navbar.html",
+		"/M/PARSONAL2",
+		"/M/jQuary/practice project/project-5/style.css",
+		"/M/jQuary/practice project/project4/style.css",
+		"/M/jQuary/practice project/project4/index.html",
+		"/M/jQuary/practice project/project-5/index.html",
+		"/M/jQuary/practice project/parsonal/m1.jpg",
+		"/M/jQuary/practice project/project4/n.css",
+		"/M/jQuary/practice project/contact.html",
+		"/M/jQuary/practice project/card3.html",
+		"/M/jQuary/practice project/card4.html",
+		"/M/jQuary/practice project/footer.html",
+		"/M/jQuary/practice project/thpatecnical project/index.html",
+		"/M/jQuary/practice project/project4/tyle.css",
+		"/M/jQuary/practice project/p3/index.html",
+		"/M/jQuary/practice project/p3/style.css",
+		"/M/jQuary/practice project/project3",
+		"/M/jQuary/practice project/thpatecnical project/style.css",
+		"/M/jQuary/practice project/thapa.html",
+		"/M/jQuary/practice project/circle.html",
+		"/M/jQuary/practice project/t.html",
+		"/M/jQuary/practice project/a.html",
+		"/M/jQuary/practice project/parsonal/index.html",
+		"/M/jQuary/practice project/parsonal/style.css",
+		"/M/jQuary/practice project/parsonal/main.js",
+		"/M/jQuary/practice project/c2.html",
+		"/M/jQuary/practice project/index.html",
+		"/M/jQuary/practice project/nav.css",
+		"/M/jQuary/practice project/nav.html",
+		"/M/jQuary/practice project/arif.css",
+		"/M/jQuary/practice project/arif.html",
+		"/M/jQuary/practice project/card.html",
+		"/M/jQuary/practice project/card2.html",
+		"/M/jQuary/owl carousel/style.css",
+		"/M/jQuary/owl carousel/index.html",
+		"/M/jQuary/animation/practise.html",
+		"/M/jQuary/practice project/owl-carousel.html",
+		"/M/jQuary/progressbar/index.html",
+		"/M/jQuary/shope/style.css",
+		"/M/jQuary/shope/index.html",
+		"/M/jQuary/progressbar/progress.css",
+		"/M/jQuary/progressbar/pro.js",
+		"/M/jQuary/progressbar/file",
+		"/M/jQuary/p2/p2.html",
+		"/M/jQuary/p2/style.css",
+		"/M/jQuary/project1.html",
+		"/M/jQuary/arif.css",
+		"/M/jQuary/new p1/p1.html",
+		"/M/jQuary/new p1/style.css",
+		"/M/jQuary/1poject.html",
+		"/M/jQuary/raf.html",
+		"/M/jQuary/jq.html",
+		"/M/jQuary/jquery.js",
+		"/M/jQuary/style.css",
+		"/M/html/fgdiuy",
+		"/M/a.html",
+		"/M/html/index.html",
+		"/M/html/aaa.html",
+		"/M/html/ab.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"M:\\jQuary\\jq.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
